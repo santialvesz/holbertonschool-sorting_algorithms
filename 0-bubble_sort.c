@@ -2,7 +2,7 @@
 
 void bubble_sort(int *array, size_t size)
 {
-int a = 0, aux, num;
+int a, aux, num;
 
 	while(1)
 	{
